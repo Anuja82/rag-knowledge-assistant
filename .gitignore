@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.db
 node_modules/
+chroma_store/
